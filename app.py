@@ -10,6 +10,3 @@ df = pd.read_csv('Automobiles.csv')
 # Display the DataFrame
 st.write(df)
 
-exam1syduluvemula/
-├── app.py
-└── Automobiles.csv
