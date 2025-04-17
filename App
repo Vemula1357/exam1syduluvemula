@@ -1,0 +1,7 @@
+cd ~/Desktop/Foundation\ of\ Analytics/Exam\ Part\ 2/
+git init
+git remote add origin https://github.com/Vemula1357/exam1syduluvemula.git
+git add app.py Automobiles.csv
+git commit -m "Initial commit - Exam 1 Streamlit App"
+git branch -M main
+git push -u origin main
