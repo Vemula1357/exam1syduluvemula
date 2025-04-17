@@ -5,8 +5,11 @@ import pandas as pd
 st.title('My Streamlit App')
 
 # Reading the CSV file (replace with your actual CSV file path)
-df = pd.read_csv('/Users/syduluvemula/Desktop/Foundation of Analytics/Exam Part 2/Automobiles.csv')
+df = pd.read_csv('Automobiles.csv')
 
 # Display the DataFrame
 st.write(df)
 
+exam1syduluvemula/
+├── app.py
+└── Automobiles.csv
